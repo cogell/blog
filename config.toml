@@ -1,8 +1,9 @@
-baseurl = "http://cogell.com/blog"
+#baseurl = "http://cogell.com/blog"
 languageCode = "en-us"
 title = "Some Thoughts"
 paginate = 5
 DisquaShortname = "cogell"
+#canonifyurls = true
 
 [params]
   description = "mistakes are encouraged"
