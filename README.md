@@ -1,3 +1,3 @@
-# Personal Blog Site
+# Personal Blog
 
 created using [hugo](http://gohugo.io/)
