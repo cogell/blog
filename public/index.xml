@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Cedric Cogell Thoughts, Some</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on B. Cedric Cogell Thoughts, Some</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jul 2015 07:43:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo is Fast</title>
+      <link>http://localhost:1313/blog/post/post-title/</link>
+      <pubDate>Sun, 26 Jul 2015 07:43:08 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/post/post-title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>http://localhost:1313/blog/post/first/</link>
+      <pubDate>Sun, 26 Jul 2015 07:33:10 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/post/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-hugo:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Hello Hugo&lt;/h1&gt;
+
+&lt;p&gt;This is some content in my first blog post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Sun, 26 Jul 2015 07:31:40 -0400</pubDate>
+      
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;This is just a place to keep track of some thoughts and ideas around web development and other life passions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+baseurl = "http://cogell.com/blog"
+languageCode = "en-us"
+title = "B. Cedric Cogell Thoughts, Some"
+paginate = 5
+DisquaShortname = "cogell"
+
+[params]
+  description = "mistakes are encouraged"
+  cover = "media/messy-architecture-desk.jpg"
+  author = "B. Cedric Cogell"
+  authorlocation = "Hudson Valley, New York"
+  bio = "Software Engineer, reader, friend, and human"
+  logo = ""
+  githubName = "cogell"
+  twitterName = "cogell"
