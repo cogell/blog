@@ -7,10 +7,10 @@ DisquaShortname = "cogell"
 
 [params]
   description = "mistakes are encouraged"
-  cover = "media/messy-architecture-desk.jpg"
+  cover = "media/messy-architecture-desk.min.jpg"
   author = "B. Cedric Cogell"
   authorlocation = "Hudson Valley, New York"
   bio = "Software Engineer, reader, friend, and human"
-  logo = ""
+  logo = "media/logo.png"
   githubName = "cogell"
   twitterName = "cogell"

@@ -8,3 +8,6 @@ created using [hugo](http://gohugo.io/)
 
 ## Todo's
 - add script to save all jpg's with progressive encoding
+- remove weird underlines from social icons on main page
+
+- set up terraform stuff so hosting setup doesnt require GUI nonsense
