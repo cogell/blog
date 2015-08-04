@@ -1,4 +1,4 @@
-#baseurl = "http://cogell.com/blog"
+baseurl = "http://blog.cogell.com/"
 languageCode = "en-us"
 title = "Some Thoughts"
 paginate = 5
@@ -14,3 +14,9 @@ DisquaShortname = "cogell"
   logo = "media/logo.png"
   githubName = "cogell"
   twitterName = "cogell"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
